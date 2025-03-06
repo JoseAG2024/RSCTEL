@@ -1,0 +1,698 @@
+{
+  "ES0241": {
+    "NOMBRE": "A&G BANCO, S.A."
+  },
+  "ES2038": {
+    "NOMBRE": "BANKIA"
+  },
+  "ES2080": {
+    "NOMBRE": "Abanca Corporacion Bancaria, S.A."
+  },
+  "ES8620": {
+    "NOMBRE": "Abanca Servicios Financieros E.F.C., S.A."
+  },
+  "ES1535": {
+    "NOMBRE": "AKF Bank GmbH & Co Kg, Sucursal en España"
+  },
+  "ES0011": {
+    "NOMBRE": "Allfunds Bank, S.A."
+  },
+  "ES6730": {
+    "NOMBRE": "ALPHA FX EUROPE LIMITED SUCURSAL EN ESPAÑA"
+  },
+  "ES0200": {
+    "NOMBRE": "ANDBANK ESPAÑA BANCA PRIVADA, S.A."
+  },
+  "ES0136": {
+    "NOMBRE": "Aresbank, S.A."
+  },
+  "ES3183": {
+    "NOMBRE": "Arquia Bank, S.A."
+  },
+  "ES1541": {
+    "NOMBRE": "Attijariwafa Bank Europe, Sucursal en España"
+  },
+  "ES0061": {
+    "NOMBRE": "Banca March, S.A."
+  },
+  "ES1550": {
+    "NOMBRE": "Banca Popolare Etica Società Cooperativa per Azioni, Sucursal en España"
+  },
+  "ES0078": {
+    "NOMBRE": "Banca Pueyo, S.A."
+  },
+  "ES0188": {
+    "NOMBRE": "Banco Alcalá, S.A."
+  },
+  "ES0182": {
+    "NOMBRE": "BBVA"
+  },
+  "ES0225": {
+    "NOMBRE": "Banco Cetelem, S.A."
+  },
+  "ES0198": {
+    "NOMBRE": "Banco Cooperativo Español, S.A."
+  },
+  "ES0091": {
+    "NOMBRE": "Banco de Albacete, S.A."
+  },
+  "ES0240": {
+    "NOMBRE": "Banco de Crédito Social Cooperativo"
+  },
+  "ES0003": {
+    "NOMBRE": "Banco de Depósitos, S.A."
+  },
+  "ES9000": {
+    "NOMBRE": "BANCO DE ESPAÑA"
+  },
+  "ES1569": {
+    "NOMBRE": "Banco de Investimento Global SA, Sucursal en España"
+  },
+  "ES0169": {
+    "NOMBRE": "Banco de la Nación Argentina, Sucursal en España"
+  },
+  "ES0081": {
+    "NOMBRE": "Banco de Sabadell, S.A."
+  },
+  "ES0184": {
+    "NOMBRE": "Banco Europeo de Finanzas, S.A."
+  },
+  "ES0220": {
+    "NOMBRE": "BANCO FINANTIA, S.A., SUCURSAL EN ESPAÑA"
+  },
+  "ES0232": {
+    "NOMBRE": "Banco Inversis, S.A."
+  },
+  "ES0186": {
+    "NOMBRE": "Banco Mediolanum, S.A."
+  },
+  "ES0121": {
+    "NOMBRE": "Banco Occidental, S.A."
+  },
+  "ES0235": {
+    "NOMBRE": "Banco Pichincha España, S.A.."
+  },
+  "ES1509": {
+    "NOMBRE": "Banco Primus, S.A., Sucursal en España"
+  },
+  "ES0049": {
+    "NOMBRE": "Banco Santander, S.A."
+  },
+  "ES8843": {
+    "NOMBRE": "BANGE CREDIT E.F.C. SA"
+  },
+  "ES1574": {
+    "NOMBRE": "Bank Julius Baer Europe, S.A, Sucursal en España"
+  },
+  "ES0219": {
+    "NOMBRE": "Bank of Africa Europe, S.A."
+  },
+  "ES1485": {
+    "NOMBRE": "Bank of America Europe DAC, Sucursal en España"
+  },
+  "ES1488": {
+    "NOMBRE": "BANK PICTET & CIE (EUROPE) AG SUCURSAL EN ESPAÑA"
+  },
+  "ES8832": {
+    "NOMBRE": "Bankinter Consumer Finance, E.F.C., S.A."
+  },
+  "ES0128": {
+    "NOMBRE": "Bankinter, S.A."
+  },
+  "ES1525": {
+    "NOMBRE": "Banque Chaabi du Maroc, Sucursal en España"
+  },
+  "ES1580": {
+    "NOMBRE": "BANQUE J. SAFRA SARASIN (LUXEMBOURG) SA, SUCURSAL EN ESPAÑA"
+  },
+  "ES0152": {
+    "NOMBRE": "Barclays Bank Ireland PLC, Sucursal en España"
+  },
+  "ES1554": {
+    "NOMBRE": "BFF Bank, S.P.A. Sucursal en España"
+  },
+  "ES6717": {
+    "NOMBRE": "Bnext Electronic Issuer, E.D.E. S.L."
+  },
+  "ES1532": {
+    "NOMBRE": "BNP Paribas Factor, Sucursal en España"
+  },
+  "ES1492": {
+    "NOMBRE": "BNP Paribas Lease Group S.A. Sucursal en España"
+  },
+  "ES0149": {
+    "NOMBRE": "BNP Paribas S.A., Sucursal en España"
+  },
+  "ES1500": {
+    "NOMBRE": "BPCE Lease, Sucursal en España"
+  },
+  "ES1576": {
+    "NOMBRE": "Bunq B.V., Sucursal en España"
+  },
+  "ES1545": {
+    "NOMBRE": "CA Indosuez Wealth (Europe), Sucursal en España"
+  },
+  "ES0038": {
+    "NOMBRE": "CACEIS Bank Spain, S.A."
+  },
+  "ES1451": {
+    "NOMBRE": "Caisse Régionale de Crédit Agricole Mutuel Sud-Méditerranée (Ariège et Pyrénées-Orientales)"
+  },
+  "ES1493": {
+    "NOMBRE": "Caixa Banco de Investimento, S.A. Sucursal en España"
+  },
+  "ES3025": {
+    "NOMBRE": "Caixa de Crédit dels Enginyers- Caja de Crédito de los Ingenieros, S. Coop. de Crédito"
+  },
+  "ES3159": {
+    "NOMBRE": "Caixa Popular-Caixa Rural, S. Coop. de Crédito V."
+  },
+  "ES3045": {
+    "NOMBRE": "Caixa Rural Altea, Cooperativa de Crédito Valenciana"
+  },
+  "ES3162": {
+    "NOMBRE": "Caixa Rural Benicarló, S. Coop. de Credit V."
+  },
+  "ES3117": {
+    "NOMBRE": "Caixa Rural D'Algemesí, S. Coop. V. de Crédit"
+  },
+  "ES3105": {
+    "NOMBRE": "Caixa Rural de Callosa d'en Sarrià, Cooperativa de Crédito Valenciana"
+  },
+  "ES3096": {
+    "NOMBRE": "Caixa Rural de L'Alcudia, Sociedad Cooperativa Valenciana de  Crédito"
+  },
+  "ES3123": {
+    "NOMBRE": "Caixa Rural de Turís, Cooperativa de Crédito Valenciana"
+  },
+  "ES3070": {
+    "NOMBRE": "Caixa Rural Galega, Sociedad Cooperativa de Crédito Limitada Gallega"
+  },
+  "ES3111": {
+    "NOMBRE": "Caixa Rural La Vall 'San Isidro', Sociedad Cooperativa de Crédito Valenciana"
+  },
+  "ES3166": {
+    "NOMBRE": "Caixa Rural Les Coves de Vinromá, S. Coop. de Crédit V."
+  },
+  "ES3160": {
+    "NOMBRE": "Caixa Rural Sant Josep de Vilavella, S. Coop. de Crédito V."
+  },
+  "ES3102": {
+    "NOMBRE": "Caixa Rural Sant Vicent Ferrer de La Vall D'Uixó, Coop. de Credit V."
+  },
+  "ES3118": {
+    "NOMBRE": "Caixa Rural Torrent Cooperativa de Credit Valenciana"
+  },
+  "ES3174": {
+    "NOMBRE": "Caixa Rural Vinarós, S. Coop. de Credit. V."
+  },
+  "ES8776": {
+    "NOMBRE": "Caixabank Payments & Consumer, E.F.C., E.P., S.A."
+  },
+  "ES2100": {
+    "NOMBRE": "Caixabank, S.A."
+  },
+  "ES2045": {
+    "NOMBRE": "Caja de Ahorros y Monte de Piedad de Ontinyent"
+  },
+  "ES2048": {
+    "NOMBRE": "Liberbank"
+  },
+  "ES3029": {
+    "NOMBRE": "Caja de Crédito de Petrel, Caja Rural, Cooperativa de Crédito Valenciana"
+  },
+  "ES3035": {
+    "NOMBRE": "Caja Laboral Popular Coop. de Crédito"
+  },
+  "ES3115": {
+    "NOMBRE": "Caja Rural 'Nuestra Madre del Sol', S. Coop. Andaluza de Crédito"
+  },
+  "ES3110": {
+    "NOMBRE": "Caja Rural Católico Agraria, S. Coop. de Crédito V."
+  },
+  "ES3005": {
+    "NOMBRE": "Caja Rural Central, Sociedad Cooperativa de Crédito"
+  },
+  "ES3190": {
+    "NOMBRE": "Caja Rural de Albacete, Ciudad Real y Cuenca, Sociedad Cooperativa de Crédito"
+  },
+  "ES3150": {
+    "NOMBRE": "Caja Rural de Albal, Coop. de Crédito V."
+  },
+  "ES3179": {
+    "NOMBRE": "Caja Rural de Alginet, Sociedad Cooperativa Crédito Valenciana"
+  },
+  "ES3001": {
+    "NOMBRE": "Caja Rural de Almendralejo, Sociedad Cooperativa de Crédito"
+  },
+  "ES3191": {
+    "NOMBRE": "Caja Rural de Aragón, Sociedad Cooperativa de Crédito"
+  },
+  "ES3059": {
+    "NOMBRE": "Caja Rural de Asturias, Sociedad Cooperativa de Crédito"
+  },
+  "ES3089": {
+    "NOMBRE": "Caja Rural de Baena Ntra. Sra. de Guadalupe Sociedad Cooperativa de Crédito Andaluza"
+  },
+  "ES3060": {
+    "NOMBRE": "Caja Rural de Burgos, Fuentepelayo, Segovia y Castelldans, Sociedad Cooperativa de Crédito"
+  },
+  "ES3104": {
+    "NOMBRE": "Caja Rural de Cañete de Las Torres Ntra. Sra. del Campo Sociedad Cooperativa Andaluza de Crédito"
+  },
+  "ES3127": {
+    "NOMBRE": "Caja Rural de Casas Ibáñez, S. Coop. de Crédito de Castilla-La Mancha"
+  },
+  "ES3121": {
+    "NOMBRE": "Caja Rural de Cheste, Sociedad Cooperativa de Crédito Valenciana"
+  },
+  "ES3009": {
+    "NOMBRE": "Caja Rural de Extremadura, Sociedad Cooperativa de Crédito"
+  },
+  "ES3007": {
+    "NOMBRE": "Caja Rural de Gijón, Sociedad Cooperativa Asturiana de Crédito"
+  },
+  "ES3023": {
+    "NOMBRE": "Caja Rural de Granada, Sociedad Cooperativa de Crédito"
+  },
+  "ES3140": {
+    "NOMBRE": "Caja Rural de Guissona, Sociedad Cooperativa de Crédito"
+  },
+  "ES3067": {
+    "NOMBRE": "Caja Rural de Jaén, Barcelona y Madrid, Sociedad Cooperativa de Crédito"
+  },
+  "ES3008": {
+    "NOMBRE": "Caja Rural de Navarra, S. Coop. de Crédito"
+  },
+  "ES3098": {
+    "NOMBRE": "Caja Rural de Nueva Carteya,  Sociedad Cooperativa Andaluza de Crédito"
+  },
+  "ES3016": {
+    "NOMBRE": "Caja Rural de Salamanca, Sociedad Cooperativa de Crédito"
+  },
+  "ES3017": {
+    "NOMBRE": "Caja Rural de Soria, Sociedad Cooperativa de Crédito"
+  },
+  "ES3080": {
+    "NOMBRE": "Caja Rural de Teruel, Sociedad Cooperativa de Crédito"
+  },
+  "ES3020": {
+    "NOMBRE": "Caja Rural de Utrera, Sociedad Cooperativa Andaluza de Crédito"
+  },
+  "ES3144": {
+    "NOMBRE": "Caja Rural de Villamalea, S. Coop. de Crédito Agrario de Castilla-La Mancha"
+  },
+  "ES3152": {
+    "NOMBRE": "Caja Rural de Villar, Coop. de Crédito V."
+  },
+  "ES3085": {
+    "NOMBRE": "Caja Rural de Zamora, Cooperativa de Crédito"
+  },
+  "ES3187": {
+    "NOMBRE": "Caja Rural del Sur, S. Coop. de Crédito"
+  },
+  "ES3157": {
+    "NOMBRE": "Caja Rural La Junquera de Chilches, S. Coop. de Crédito V."
+  },
+  "ES3134": {
+    "NOMBRE": "Caja Rural Nuestra Señora de la Esperanza de Onda, S. Coop. de Crédito V."
+  },
+  "ES3018": {
+    "NOMBRE": "Caja Rural Regional San Agustín Fuente Álamo Murcia, Sociedad Cooperativa de Crédito"
+  },
+  "ES3165": {
+    "NOMBRE": "Caja Rural San Isidro de Vilafames S. Coop. de Crédito V."
+  },
+  "ES3119": {
+    "NOMBRE": "Caja Rural San Jaime de Alquerías Niño Perdido S. Coop. de Crédito V."
+  },
+  "ES3113": {
+    "NOMBRE": "Caja Rural San José de Alcora S. Coop. de Crédito V."
+  },
+  "ES3130": {
+    "NOMBRE": "Caja Rural San José de Almassora, S. Coop. de Crédito V."
+  },
+  "ES3112": {
+    "NOMBRE": "Caja Rural San José de Burriana, S. Coop. de Crédito V."
+  },
+  "ES3135": {
+    "NOMBRE": "Caja Rural San José de Nules S. Coop. de Crédito V."
+  },
+  "ES3095": {
+    "NOMBRE": "Caja Rural San Roque de Almenara S. Coop. de Crédito  V."
+  },
+  "ES3058": {
+    "NOMBRE": "Cajamar Caja Rural, Sociedad Cooperativa de Crédito"
+  },
+  "ES3076": {
+    "NOMBRE": "Cajasiete, Caja Rural, Sociedad Cooperativa de Crédito"
+  },
+  "ES0237": {
+    "NOMBRE": "Cajasur Banco, S.A."
+  },
+  "ES8844": {
+    "NOMBRE": "CASTELO CAPITAL EFC SA"
+  },
+  "ES4706": {
+    "NOMBRE": "Caterpillar Financial Corporación Financiera, S.A., E.F.C."
+  },
+  "ES0234": {
+    "NOMBRE": "CBNK BANCO DE COLECTIVOS, S.A."
+  },
+  "ES2000": {
+    "NOMBRE": "Cecabank, S.A."
+  },
+  "ES1553": {
+    "NOMBRE": "China Construction Bank (Europe), S.A., Sucursal en España"
+  },
+  "ES1474": {
+    "NOMBRE": "Citibank Europe Plc, Sucursal en España"
+  },
+  "ES1499": {
+    "NOMBRE": "Claas Financial Services, S.A.S., Sucursal en España"
+  },
+  "ES1546": {
+    "NOMBRE": "CNH Industrial Capital Europe, S.A.S., Sucursal en España"
+  },
+  "ES1543": {
+    "NOMBRE": "Cofidis, S.A. Sucursal en España"
+  },
+  "ES2056": {
+    "NOMBRE": "Colonya - Caixa D'estalvis de Pollensa"
+  },
+  "ES0159": {
+    "NOMBRE": "Commerzbank Aktiengesellschaft, Sucursal en España"
+  },
+  "ES1459": {
+    "NOMBRE": "Cooperatieve Rabobank U.A., Sucursal en España"
+  },
+  "ES0154": {
+    "NOMBRE": "Crédit Agricole Corporate and Investment Bank, Sucursal en España"
+  },
+  "ES1472": {
+    "NOMBRE": "Crédit Agricole Leasing & Factoring, Sucursal en España"
+  },
+  "ES1555": {
+    "NOMBRE": "Crédit Mutuel Leasing, Sucursal en España"
+  },
+  "ES6716": {
+    "NOMBRE": "Currencies Direct Spain, EDE, SL"
+  },
+  "ES8842": {
+    "NOMBRE": "DAIMLER TRUCK FINANCIAL SERVICES ESPAÑA E.F.C., S.A.U."
+  },
+  "ES1457": {
+    "NOMBRE": "De Lage Landen International B.V., Sucursal en España"
+  },
+  "ES1548": {
+    "NOMBRE": "Dell Bank International Designated Activity Company, Sucursal en España"
+  },
+  "ES0145": {
+    "NOMBRE": "Deutsche Bank, A.G., Sucursal en España"
+  },
+  "ES0019": {
+    "NOMBRE": "Deutsche Bank, Sociedad Anónima Española"
+  },
+  "ES8826": {
+    "NOMBRE": "Deutsche Leasing Iberica, E.F.C.,  S.A."
+  },
+  "ES1501": {
+    "NOMBRE": "Deutsche Pfandbriefbank AG, Sucursal en España"
+  },
+  "ES0211": {
+    "NOMBRE": "EBN Banco de Negocios, S.A."
+  },
+  "ES1473": {
+    "NOMBRE": "Edmond de Rothschild (Europe), Sucursal en España"
+  },
+  "ES3081": {
+    "NOMBRE": "Eurocaja Rural, Sociedad Cooperativa de Crédito"
+  },
+  "ES0239": {
+    "NOMBRE": "Evo Banco S.A."
+  },
+  "ES0218": {
+    "NOMBRE": "FCE Bank Plc Sucursal en España"
+  },
+  "ES8308": {
+    "NOMBRE": "Financiera Carrión, S.A., E.F.C."
+  },
+  "ES8805": {
+    "NOMBRE": "Financiera El Corte Inglés E.F.C., S.A."
+  },
+  "ES8823": {
+    "NOMBRE": "Financiera española de crédito a distancia, E.F.C., S.A."
+  },
+  "ES6726": {
+    "NOMBRE": "FINOM PAYMENTS SUCURSAL EN ESPAÑA"
+  },
+  "ES6718": {
+    "NOMBRE": "FINPAY Entidad de Dineero Electrónico, S.A"
+  },
+  "ES8839": {
+    "NOMBRE": "GCC Consumo, EFC, S.A"
+  },
+  "ES1496": {
+    "NOMBRE": "Genefim, Sucursal en España"
+  },
+  "ES6702": {
+    "NOMBRE": "Global Payment Moneytopay, EDE, SL"
+  },
+  "ES1564": {
+    "NOMBRE": "Goldman Sachs Bank Europe SE, Sucursal en España"
+  },
+  "ES1497": {
+    "NOMBRE": "Haitong Bank, S.A., Sucursal en España"
+  },
+  "ES1504": {
+    "NOMBRE": "Honda Bank GmbH, Sucursal en España"
+  },
+  "ES0162": {
+    "NOMBRE": "HSBC Continental Europe, Sucursal en España"
+  },
+  "ES2085": {
+    "NOMBRE": "Ibercaja Banco, S.A."
+  },
+  "ES4832": {
+    "NOMBRE": "IBERCAJA SERVICIOS DE FINANCIACIÓN, ESTABLECIMIENTO FINANCIERO DE CRÉDITO, S.A."
+  },
+  "ES1514": {
+    "NOMBRE": "IC FINANCIAL SERVICES, SUCURSAL EN ESPAÑA"
+  },
+  "ES1538": {
+    "NOMBRE": "Industrial and Commercial Bank of China (Europe) S.A., Sucursal en España"
+  },
+  "ES1465": {
+    "NOMBRE": "Ing Bank, N.V. Sucursal en España"
+  },
+  "ES1000": {
+    "NOMBRE": "Instituto de Crédito Oficial"
+  },
+  "ES1494": {
+    "NOMBRE": "Intesa Sanpaolo S.p.A., Sucursal en España"
+  },
+  "ES1567": {
+    "NOMBRE": "J.P. MORGAN SE, SUCURSAL EN ESPAÑA"
+  },
+  "ES1482": {
+    "NOMBRE": "John Deere Bank, S.A., Sucursal en España"
+  },
+  "ES0151": {
+    "NOMBRE": "JPMorgan Chase Bank National Association, Sucursal en España"
+  },
+  "ES2095": {
+    "NOMBRE": "Kutxabank, S.A."
+  },
+  "ES1547": {
+    "NOMBRE": "Lombard Odier (Europe), S.A., Sucursal en España"
+  },
+  "ES8342": {
+    "NOMBRE": "Luzaro E.F.C. S.A"
+  },
+  "ES6725": {
+    "NOMBRE": "MANGOPAY SA SUCURSAL EN ESPAÑA"
+  },
+  "ES1520": {
+    "NOMBRE": "Mediobanca, Sucursal en España"
+  },
+  "ES4799": {
+    "NOMBRE": "Mercedes-Benz Financial Services España E.F.C., S.A."
+  },
+  "ES1552": {
+    "NOMBRE": "Mirabaud & Cie (Europe) S.A., Sucursal en España"
+  },
+  "ES1559": {
+    "NOMBRE": "Mizuho Bank Europe N.V., Sucursal en España"
+  },
+  "ES6723": {
+    "NOMBRE": "MODULR FINANCE B.V., SUCURSAL EN ESPAÑA"
+  },
+  "ES6720": {
+    "NOMBRE": "Moneycorp Technologies Limited, S.E"
+  },
+  "ES0160": {
+    "NOMBRE": "MUFG Bank (Europe) N.V., Sucursal en España"
+  },
+  "ES1544": {
+    "NOMBRE": "MYINVESTOR BANCO, S.A."
+  },
+  "ES1563": {
+    "NOMBRE": "N26 BANK AG, SUCURSAL EN ESPAÑA"
+  },
+  "ES1479": {
+    "NOMBRE": "Natixis, S.A., Sucursal en España"
+  },
+  "ES0133": {
+    "NOMBRE": "Nuevo Micro Bank, S.A."
+  },
+  "ES8235": {
+    "NOMBRE": "OCCIDENT HIPOTECARIA, EFC S.A"
+  },
+  "ES1577": {
+    "NOMBRE": "Oddo BHF SCA, Sucursal en España"
+  },
+  "ES8814": {
+    "NOMBRE": "Oney Servicios Financieros, E.F.C., S.A."
+  },
+  "ES0073": {
+    "NOMBRE": "Open Bank, S.A."
+  },
+  "ES1568": {
+    "NOMBRE": "Orange Bank, S.A., Sucursal en España"
+  },
+  "ES6722": {
+    "NOMBRE": "PAGONXT EMONEY EDE, S.L."
+  },
+  "ES6707": {
+    "NOMBRE": "Pecunia Cards E.D.E. S.L"
+  },
+  "ES1508": {
+    "NOMBRE": "RCI Banque, S.A., Sucursal en España"
+  },
+  "ES0083": {
+    "NOMBRE": "Renta 4 Banco, S.A."
+  },
+  "ES1583": {
+    "NOMBRE": "REVOLUT BANK UAB SUCURSAL EN ESPAÑA"
+  },
+  "ES1584": {
+    "NOMBRE": "RIVERBANK SA SUCURSAL EN ESPAÑA"
+  },
+  "ES3138": {
+    "NOMBRE": "Ruralnostra, Sociedad Cooperativa de Crédito Valenciana"
+  },
+  "ES0242": {
+    "NOMBRE": "Sabadell Consumer Finance, S.A."
+  },
+  "ES0224": {
+    "NOMBRE": "Santander Consumer Finance, S.A."
+  },
+  "ES8906": {
+    "NOMBRE": "Santander Factoring y Confirming, S.A., E.F.C."
+  },
+  "ES0036": {
+    "NOMBRE": "Santander Investment, S.A."
+  },
+  "ES4797": {
+    "NOMBRE": "Santander Lease, S.A. EFC"
+  },
+  "ES8813": {
+    "NOMBRE": "Scania Finance Hispania, E.F.C., S.A."
+  },
+  "ES6705": {
+    "NOMBRE": "Sefide, E.D.E. S.L."
+  },
+  "ES8795": {
+    "NOMBRE": "Servicios Financieros Carrefour, E.F.C., S.A."
+  },
+  "ES8833": {
+    "NOMBRE": "SG Equipment Finance Iberia, E.F.C., S.A."
+  },
+  "ES1490": {
+    "NOMBRE": "Singular Bank, S.A."
+  },
+  "ES1551": {
+    "NOMBRE": "SMBC Bank EU AG, Sucursal en España"
+  },
+  "ES8816": {
+    "NOMBRE": "Sociedad Conjunta para la Emisión y Gestión de Medios de Pago, E.F.C., S.A"
+  },
+  "ES0108": {
+    "NOMBRE": "Société Genérale, Sucursal en España"
+  },
+  "ES1578": {
+    "NOMBRE": "SOLARIS SE, SUCURSAL EN ESPAÑA"
+  },
+  "ES8838": {
+    "NOMBRE": "STELLANTIS FINANCIAL SERVICES ESPAÑA, E.F.C.,"
+  },
+  "ES6724": {
+    "NOMBRE": "SWAN IO SUCURSAL EN ESPAÑA"
+  },
+  "ES8836": {
+    "NOMBRE": "Telefonica Consumer Finance, EFC, S.A."
+  },
+  "ES1573": {
+    "NOMBRE": "The Bank of New York Mellon SA/SV, S.E"
+  },
+  "ES1570": {
+    "NOMBRE": "The Governor and Company of the Bank of Ireland, Sucursal en España"
+  },
+  "ES1487": {
+    "NOMBRE": "Toyota Kreditbank GmbH, Sucursal en España"
+  },
+  "ES4784": {
+    "NOMBRE": "Transolver Finance, E.F.C., S.A."
+  },
+  "ES6721": {
+    "NOMBRE": "TREEZOR S.A.S., SUCURSAL EN ESPAÑA"
+  },
+  "ES1491": {
+    "NOMBRE": "Triodos Bank, N.V., S.E."
+  },
+  "ES1460": {
+    "NOMBRE": "UBS AG, SUCURSAL EN ESPAÑA"
+  },
+  "ES0226": {
+    "NOMBRE": "UBS Europe SE, Sucursal en España"
+  },
+  "ES2103": {
+    "NOMBRE": "Unicaja Banco, S.A."
+  },
+  "ES1557": {
+    "NOMBRE": "Unicredit, S.p.A., Sucursal en España"
+  },
+  "ES8596": {
+    "NOMBRE": "Unión Cto. Fin. Mob. e Inm., Credifimo, E.F.C., S.A."
+  },
+  "ES8512": {
+    "NOMBRE": "Unión de Créditos Inmobiliarios, S.A., E.F.C."
+  },
+  "ES8769": {
+    "NOMBRE": "Unión Financiera Asturiana, S.A., E.F.C."
+  },
+  "ES6719": {
+    "NOMBRE": "Unnax Regulatory Services, EDE, SL"
+  },
+  "ES6709": {
+    "NOMBRE": "Up Aganea EDE, SA"
+  },
+  "ES8806": {
+    "NOMBRE": "VFS Financial Services Spain E.F.C., S.A."
+  },
+  "ES1480": {
+    "NOMBRE": "Volkswagen Bank GmbH, Sucursal en España"
+  },
+  "ES1575": {
+    "NOMBRE": "Western Union International Bank GMBH, Sucursal en España"
+  },
+  "ES0229": {
+    "NOMBRE": "Wizink Bank, S.A."
+  },
+  "ES8840": {
+    "NOMBRE": "Xfera Consumer Finance, E.F.C. S.A."
+  },
+  "ES1560": {
+    "NOMBRE": "Younited, Sucursal en España"
+  }
+}

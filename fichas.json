@@ -1,0 +1,20 @@
+﻿{
+  "fichaEnergia":{
+    "CUPS_GAS":"",
+    "CUPS_LUZ":"ES0021000008415741LS",
+    "DNI_NIE":"19094932X",
+    "IBAN":"ES8100930878910194941986",
+    "SVAE":"- Selecciona un valor -",
+    "SVAG":"- Selecciona un valor -",
+    "codigoPostal":"46001",
+    "contratoGas":"- Selecciona un valor -",
+    "contratoLuz":"- Selecciona un valor -",
+    "cuotaAcnur":"- Selecciona un valor -",
+    "direccion":"C REINA MARIA CRISTINA 60 15",
+    "email":"",
+    "nombreCliente":"JULIAN MARTINEZ SILVA",
+    "poblacion":"valencia",
+    "provincia":"valencia"
+  },
+  "timestamp":"20250306160437"
+}

@@ -145,12 +145,13 @@ if ProcessExist("OCMAgent.exe"){
                             ;procedo a codificar la llamada agendada
                             FuncionesOCM("Codificar_Llamada_Agendada")
                         }else if teclaPresionada="F11"{
-                            ;Esta es una tecla especial porque aqui interactuo con el CRM de la empresa
-                            ;por eso lo programo por separado
-                            ventaEnergia()
-                        }else{
+
                             ;una vez obtenga la codificación del sistema OCM segun la ficha actual
                             ;procedo a codificar la llamada
+                           
+                            ventaEnergia()
+                            FuncionesOCM("Codificar_Llamada")
+                        }else{
                             FuncionesOCM("Codificar_Llamada")
                         }
                         ;una vez se ha codificado y guardado la ficha del cliente, procedo a desbloquear
@@ -296,6 +297,7 @@ FuncionesOCM(Operacion){
                 TituloScript:=""
             }
         }
+
     }catch as e{
         ;Lo primero es liberar el bloqueo del input
         BlockInput "Off"
@@ -335,7 +337,7 @@ CampañaEnergia(tecla){
         CodificarCon:="NO RESIDE EN PUNTO SUMINISTRO"
     }else if tecla="F11"{
         ;AQUI SE INTERACTUA CON CRM
-        ventaEnergia()
+        CodificarCon:="VENTA"
     }else if tecla="F12"{
         CodificarCon:="YA CLIENTE NATURGY"
     }
@@ -365,37 +367,17 @@ CampañaTelefonia(tecla){
     }else if tecla="F10"{
         CodificarCon:="YA CLIENTE MASMOVIL"
     }else if tecla="F11"{
+        CodificarCon:="VENTA"
         ;AQUI SE INTERACTUA CON CRM
     }else if tecla="F12"{
         CodificarCon:="COMPROMISO PERMANENCIA POR TERMINALES"
     }
 }
 
-/*En venta de energia tengo las siguientes variables que manejar en CRM de RSCTEL.
-
-NOMBRE	
-DNI_NIE	
-EMAIL	
-DIRECCION	
-PROVINCIA	
-POBLACION	
-IBAN	
-CUPS_LUZ	
-CUPS_GAS	
-NUMERO_CLIENTE	
-CODIGO_POSTAL	
-LUZ	---- combobox
-GAS	---- combobox
-SWE	---- combobox
-SWG	---- combobox
-CAMPAÑA	---- combobox
-CUOTA ACNUR
-*/
-
 ;Funcion para copiar los datos de la ficha que se acaba de encontrar
 ventaEnergia(){
     ; Definir la ruta del archivo JSON
-    jsonPath := "/fichas.json"
+    jsonPath := "fichas.json"
 
     ; Escribir la estructura completa en el archivo (JSON inicial)
     jsonInicial :=
@@ -465,22 +447,18 @@ ventaEnergia(){
         ; Mover la ventana al fondo y esperar que se cierre (con timeout de 5 minutos)
         ;WinMoveBottom(titulo_Ventana_A_Monitorear)
         if WinExist("RSCTEL Agent"){
-            ;WinMoveTop("RSCTEL Agent")
+            WinWait("RSCTEL Agent")
+            WinActivate("RSCTEL Agent")
+        }else{
+            Run("rsctel_main.exe")
+            WinWait("RSCTEL Agent")
             WinActivate("RSCTEL Agent")
         }
-        if WinWaitClose(tituloVentana) {
-            FileDelete(jsonPath)
-        }else{
-            MsgBox("Error: La ventana no se cerró en el tiempo esperado.")
-        }
+        WinActivate(tituloVentana)
+
+        
+        
     }
-    if WinExist("RSCTEL Agent"){
-        WinWait("RSCTEL Agent")
-        WinActivate("RSCTEL Agent")
-    }else{
-        Run("rsctel_main.exe")
-        WinWait("RSCTEL Agent")
-        WinActivate("RSCTEL Agent")
-    }
+    
 }
 
