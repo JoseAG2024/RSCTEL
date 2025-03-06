@@ -1,0 +1,64 @@
+{
+    "Catalogos": [
+      {
+        "nombre": "MÁSMÓVIL ENERGÍA",
+        "tipos_de_contrato": [
+          {
+            "nombre": "Luz",
+            "contratos":[
+                {
+                    "nombre":"Tarifa Fija MME 24h"
+                },
+                {
+                    "nombre":"Tarifa Batman Fija 24h"
+                },
+                {
+                    "nombre":"Tarifa Retención fija 24h"
+                }
+            ]
+          },
+          {
+            "nombre": "Gas",
+            "contratos":[
+                {
+                    "nombre":"MasMovil Gas RL.1"
+                },
+                {
+                    "nombre":"MasMovil Gas RL.2"
+                }
+            ]
+          }
+        ]
+      },
+      {
+        "nombre": "Energy Go",
+        "tipos_de_contrato": [
+          {
+            "nombre": "Luz",
+            "contratos":[
+                {
+                    "nombre":"Tarifa Fija Ego 24h"
+                },
+                {
+                    "nombre":"Tarifa Batman Fija 24h"
+                },
+                {
+                    "nombre":"Tarifa Retención fija 24h"
+                }
+            ]
+          },
+          {
+            "nombre": "Gas",
+            "contratos":[
+                {
+                    "nombre":"EnergyGo Gas RL.1"
+                },
+                {
+                    "nombre":"EnergyGo Gas RL.2"
+                }
+            ]
+          }
+        ]
+      }
+    ]
+  }

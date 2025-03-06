@@ -1,0 +1,24 @@
+{
+    "Agente": "JOSE.AGUILAR",
+    "Contraseña": "Hashem11",
+    "NombreCliente": "JULIAN MARTINEZ SILVA",
+    "DNI_NIE": "19094932X",
+    "Telefono": "",
+    "Ventas": {
+        "Venta_0": {
+            "Catalogo": "Energy Go",
+            "Tipo_de_Contrato": "Luz",
+            "Contrato": "Tarifa Batman Fija 24h",
+            "CUPS": "ES0021000008415741LS",
+            "Provincia": "Valencia/València",
+            "Municipio": "Valencia",
+            "Nombre_de_la_Calle": "C REINA MARIA CRISTINA",
+            "No_Calle": "60",
+            "Piso_Letra": " 1 5",
+            "Bloq_Esc": "",
+            "Cod_Postal": "46001",
+            "Entidad_Bancaria": "Caixabank, S.A.",
+            "IBAN": "ES81 2100 0878 91 0194941986"
+        }
+    }
+}
